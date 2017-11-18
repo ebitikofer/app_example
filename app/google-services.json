@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "969151510295",
+    "firebase_url": "https://permaguruapp.firebaseio.com",
+    "project_id": "permaguruapp",
+    "storage_bucket": "permaguruapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969151510295:android:aa3af81540fcddd1",
+        "android_client_info": {
+          "package_name": "com.permaguru.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969151510295-v2ern6tppp74plnfgjuc8nh6pg2o409p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGjSt0a3U966sUwC258zJPNbh9dZ2u6Ow"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969151510295:android:c46bb171c534454b",
+        "android_client_info": {
+          "package_name": "com.example.e.permaguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969151510295-v2ern6tppp74plnfgjuc8nh6pg2o409p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGjSt0a3U966sUwC258zJPNbh9dZ2u6Ow"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
